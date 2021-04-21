@@ -1,9 +1,9 @@
 ## Implementation of Data Structures and Algorithms
 
-- [Rahul Nalawade](https://github.com/rahul1947) 
-  (Fall 2018)
-
-Collection of all the projects in Implementation of Data Structures and Algorithms course.
+- [Pengchao Cai](https://github.com/Pengchao-Cai) 
+  (Spring 2021)
+  
+> Programming is an art.
 
 #### Topics: 
 1. Implementation of data structures (Lists, Stacks, Queues, Trees, Balanced Search Trees, Hashing, Graphs); 
@@ -12,7 +12,6 @@ Collection of all the projects in Implementation of Data Structures and Algorith
 Emphasizing on practical approach to algorithms with many programming projects of types: 
 - Long: Implementation of data structures and algorithms (total 5). Teams of 3-4.
 - Short: Empirical studies, Do-and-learn projects. One project (almost) every week. Teams of 2 or individual.
-- Optional*: Individual (no collaboration).
 
 Following is the detailed list of each project: 
 (please feel free to check-out the links)

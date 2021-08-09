@@ -3,7 +3,6 @@
 - [Pengchao Cai](https://github.com/Pengchao-Cai) 
   (Spring 2021)
   
-> Programming is an art.
 
 #### Topics: 
 1. Implementation of data structures (Lists, Stacks, Queues, Trees, Balanced Search Trees, Hashing, Graphs); 

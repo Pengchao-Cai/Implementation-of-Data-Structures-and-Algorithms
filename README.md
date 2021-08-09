@@ -33,7 +33,7 @@ Following is the detailed list of each project:
 | [SP01: Linked Lists](https://github.com/Pengchao-Cai/SP01-Linked-Lists) | Feb 5, 2021 | Linked Lists | Doubly Linked List Implementation using Singly Linked List with best Object Oriented practices. | 
 | [SP02: Lists Stacks and Queue](https://github.com/Pengchao-Cai/SP02-BoundedQueue) | Feb 12, 2021 | Bounded Queue | Bounded Queue Implementation using arrays. | 
 | [SP03: Merge Sort](https://github.com/Pengchao-Cai/SP03-Merge-Sort) | Feb 19, 2021 | xxx | 
-| [SP04: Priority Queue](https://github.com/Pengchao-Cai/SP04-Binary-Heap) | Mar 5, 2021 | xxx | 
+| [SP04: Priority Queue](https://github.com/Pengchao-Cai/SP04-Binary-Heap) | Mar 5, 2021 | Implementation of Priority Queue (Binary Heap) using arrays. | 
 | [SP05: Topological Order](https://github.com/Pengchao-Cai/SP05-toposort-dfs) | Mar 12, 2021 | xxx | 
 | [SP06: BFS to Find the Odd-Length Circle](https://github.com/Pengchao-Cai/SP06-BFS-output-odd-length-circle) | Mar 23, 2021 | xxx | 
 | [SP07: Binary Search Tree](https://github.com/Pengchao-Cai/SP07-Binary-Search-Tree) | Mar 26, 2021 | xxx | 

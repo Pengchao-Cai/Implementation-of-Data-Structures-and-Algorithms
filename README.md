@@ -21,10 +21,10 @@ Following is the detailed list of each project:
 |     Title      |     End_Date     |  Description  | 
 |:---------------|-----------------:|:--------------| 
 | [LP1: Integer Arithmetic with Arbitrarily Large Numbers](https://github.com/Pengchao-Cai/LP01-Integer-arithmetic-with-arbitrarily-large-numbers)  | Feb 28, 2021 | Array-based implementation of Calculator of very large integers with the length of the numbers as large as 2,147,483,647 (2^31 - 1), with Postfix and Infix evaluation of Arithmetic Expressions. | 
-| [LP2: Strongly Connected Component, Euler Tours and PERT](https://github.com/Pengchao-Cai/LP02-SCC-EulerTours-PERT)  | April 16, 2021 | Skip Lists: A generalization of sorted linked lists for implementing Dictionary ADT (insert, delete, find, min, floor, ceiling) in O(log n) expected time per operation. And competing with balanced search trees like AVL, Red-Black, and B-Trees. | 
-| [LP3: Skip List and Red-Black Tree](https://github.com/Pengchao-Cai/LP03-Skip-Lists-and-RBT)  | April 11, 2021 | Implementation of MDS for a website seller (like Amazon), having thousands of Products (each with its own ID, Price, Description). Organizing data into a TreeMap (Red-Black Tree), used HashMap, and HashSet to achieve insertion, deletion, search, modification efficiently. | 
-| [LP4: MDS](XXX)  | xxx | xxx | 
-| [LP5: RMQ](XXX)  | xxx | xxx | 
+| [LP2: Strongly Connected Component, Euler Tours and PERT](https://github.com/Pengchao-Cai/LP02-SCC-EulerTours-PERT)  | Feb 2, 2021 | Skip Lists: A generalization of sorted linked lists for implementing Dictionary ADT (insert, delete, find, min, floor, ceiling) in O(log n) expected time per operation. And competing with balanced search trees like AVL, Red-Black, and B-Trees. | 
+| [LP3: Skip List and Red-Black Tree](https://github.com/Pengchao-Cai/LP03-Skip-Lists-and-RBT)  | Mar 11, 2021 | Implementation of MDS for a website seller (like Amazon), having thousands of Products (each with its own ID, Price, Description). Organizing data into a TreeMap (Red-Black Tree), used HashMap, and HashSet to achieve insertion, deletion, search, modification efficiently. | 
+| [LP4: MDS](https://github.com/Pengchao-Cai/LP04-multi-dimensional-search)  | Apr 10 | xxx | 
+| [LP5: RMQ](https://github.com/Pengchao-Cai/LP05-Range-Minimum-Query)  | May 10 | xxx | 
  
  
  ### B. Short Projects: 
@@ -38,6 +38,6 @@ Following is the detailed list of each project:
 | [SP05: Topological Order](https://github.com/Pengchao-Cai/SP05-toposort-dfs) | Mar 12, 2021 | xxx | 
 | [SP06: BFS to Find the Odd-Length Circle](https://github.com/Pengchao-Cai/SP06-BFS-output-odd-length-circle) | Mar 23, 2021 | xxx | 
 | [SP07: Binary Search Tree](https://github.com/Pengchao-Cai/SP07-Binary-Search-Tree) | Mar 26, 2021 | xxx | 
-| [SP08: Cuckoo Hashing](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 16, 2021 | xxx | 
-| [SP09: MST-Prim](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 16, 2021 | xxx | 
-| [SP10: Flow](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 16, 2021 | xxx | 
+| [SP08: Cuckoo Hashing](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 07, 2021 | xxx | 
+| [SP09: MST-Prim](https://github.com/Pengchao-Cai/SP09-minimum-spanning-tree) | Apr 16, 2021 | xxx | 
+| [SP10: Flow](https://github.com/Pengchao-Cai/SP10-Flow) | May 15, 2021 | xxx | 

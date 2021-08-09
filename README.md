@@ -23,7 +23,7 @@ Following is the detailed list of each project:
 | [LP2: Strongly Connected Component, Euler Tours and PERT](https://github.com/Pengchao-Cai/LP02-SCC-EulerTours-PERT)  | Feb 2, 2021 | Implement the algorithm to find strongly connected components of a directed graph; Implement "stitch sub-tours" strategy to find an Euler tour of a given directed graph; Implement PERT (Programme Evaluation and Review Technique) | 
 | [LP3: Skip List and Red-Black Tree](https://github.com/Pengchao-Cai/LP03-Skip-Lists-and-RBT)  | Mar 11, 2021 | Skip Lists: A generalization of sorted linked lists for implementing Dictionary ADT (insert, delete, find, min, floor, ceiling) in O(log n) expected time per operation. And competing with balanced search trees like AVL, Red-Black, and B-Trees. | 
 | [LP4: MDS](https://github.com/Pengchao-Cai/LP04-multi-dimensional-search)  | Apr 10 | Implementation of MDS for a website seller (like Amazon), having thousands of Products (each with its own ID, Price, Description). Organizing data into a TreeMap (Red-Black Tree), used HashMap, and HashSet to achieve insertion, deletion, search, modification efficiently. | 
-| [LP5: RMQ](https://github.com/Pengchao-Cai/LP05-Range-Minimum-Query)  | May 10 | xxx | 
+| [LP5: RMQ](https://github.com/Pengchao-Cai/LP05-Range-Minimum-Query)  | May 10 | Implementation of Range Minimum Query Problem with block partition approach| 
  
  
  ### B. Short Projects: 

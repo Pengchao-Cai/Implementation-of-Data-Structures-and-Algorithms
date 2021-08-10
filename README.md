@@ -38,5 +38,5 @@ Following is the detailed list of each project:
 | [SP06: BFS to Find the Odd-Length Circle](https://github.com/Pengchao-Cai/SP06-BFS-output-odd-length-circle) | Mar 23, 2021 | BFS | Find the Odd-length circle in a directed graph|
 | [SP07: Binary Search Tree](https://github.com/Pengchao-Cai/SP07-Binary-Search-Tree) | Mar 26, 2021 | DFS |Implementation of Binary Search Trees|
 | [SP08: Cuckoo Hashing](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 07, 2021 | Hash| Implementation of Cuckoo Hashing | 
-| [SP09: MST-Prim](https://github.com/Pengchao-Cai/SP09-minimum-spanning-tree) | Apr 16, 2021 | Greedy Algo | Implementation of Minimum Spanning Tree|  
+| [SP09: MST-Prim](https://github.com/Pengchao-Cai/SP09-minimum-spanning-tree) | Apr 16, 2021 | Greedy Algo | Implementation of Minimum Spanning Tree using Prim Algo|  
 | [SP10: Flow](https://github.com/Pengchao-Cai/SP10-Flow) | May 15, 2021 | Preflow-push | Implementation of Maximum Flow and Minimum Cut using preflow-push |

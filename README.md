@@ -32,11 +32,11 @@ Following is the detailed list of each project:
 |:---------------|-----------:|----------------------------:|:--------------| 
 | [SP01: Linked Lists](https://github.com/Pengchao-Cai/SP01-Linked-Lists) | Feb 5, 2021 | Linked Lists | Doubly Linked List Implementation using Singly Linked List with best Object Oriented practices. | 
 | [SP02: Lists Stacks and Queue](https://github.com/Pengchao-Cai/SP02-BoundedQueue) | Feb 12, 2021 | Bounded Queue | Bounded Queue Implementation using arrays. | 
-| [SP03: Merge Sort](https://github.com/Pengchao-Cai/SP03-Merge-Sort) | Feb 19, 2021 | xxx | 
-| [SP04: Priority Queue](https://github.com/Pengchao-Cai/SP04-Binary-Heap) | Mar 5, 2021 | Implementation of Priority Queue (Binary Heap) using arrays. | 
-| [SP05: Topological Order](https://github.com/Pengchao-Cai/SP05-toposort-dfs) | Mar 12, 2021 | xxx | 
-| [SP06: BFS to Find the Odd-Length Circle](https://github.com/Pengchao-Cai/SP06-BFS-output-odd-length-circle) | Mar 23, 2021 | xxx | 
-| [SP07: Binary Search Tree](https://github.com/Pengchao-Cai/SP07-Binary-Search-Tree) | Mar 26, 2021 | xxx | 
-| [SP08: Cuckoo Hashing](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 07, 2021 | xxx | 
-| [SP09: MST-Prim](https://github.com/Pengchao-Cai/SP09-minimum-spanning-tree) | Apr 16, 2021 | xxx | 
-| [SP10: Flow](https://github.com/Pengchao-Cai/SP10-Flow) | May 15, 2021 | xxx | 
+| [SP03: Divide and Conquer](https://github.com/Pengchao-Cai/SP03-Merge-Sort) | Feb 19, 2021 | Merge Sort | Implementation of divide and conquer algorithm to sort an array of integers - Merge Sort (recursion and bottom-up)| 
+| [SP04: Priority Queue](https://github.com/Pengchao-Cai/SP04-Binary-Heap) | Mar 5, 2021 |Priority Queue | Implementation of Priority Queue (Binary Heap) using arrays. | 
+| [SP05: Topological Order](https://github.com/Pengchao-Cai/SP05-toposort-dfs) | Mar 12, 2021 | DFS, BFS| Enumeration of all Topological Orderings on a Directed Graph | 
+| [SP06: BFS to Find the Odd-Length Circle](https://github.com/Pengchao-Cai/SP06-BFS-output-odd-length-circle) | Mar 23, 2021 | BFS | Find the Odd-length circle in a directed graph|
+| [SP07: Binary Search Tree](https://github.com/Pengchao-Cai/SP07-Binary-Search-Tree) | Mar 26, 2021 | DFS |Implementation of Binary Search Trees|
+| [SP08: Cuckoo Hashing](https://github.com/Pengchao-Cai/SP08-cuckoo-hashing) | Apr 07, 2021 | Hash| Implementation of Cuckoo Hashing | 
+| [SP09: MST-Prim](https://github.com/Pengchao-Cai/SP09-minimum-spanning-tree) | Apr 16, 2021 | Greedy Algo | Implementation of Minimum Spanning Tree|  
+| [SP10: Flow](https://github.com/Pengchao-Cai/SP10-Flow) | May 15, 2021 | Preflow-push | Implementation of Maximum Flow and Minimum Cut using preflow-push |
